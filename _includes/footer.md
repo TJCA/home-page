@@ -1,8 +1,6 @@
 
-
-Design by Tim O'Brien [t413.com](http://t413.com/)
+Design by 周左左
 &mdash;
-[SinglePaged theme](https://github.com/t413/SinglePaged)
+来自同济大学计算机协会
 &mdash;
-this site is [open source]({{ site.source_link }})
 
