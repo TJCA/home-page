@@ -1,3 +1,1 @@
-
-This is a compressed-commit version of
-[github.com/t413/SinglePaged](https://github.com/t413/SinglePaged)
+计协招新4个小组的介绍单页
