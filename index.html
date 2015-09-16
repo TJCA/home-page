@@ -21,7 +21,8 @@
         {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
         <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
       {% endfor %}
-    </ul></nav>
+     </ul>
+    </nav>
 
 
     {% for page in site.posts reversed %}
@@ -54,7 +55,6 @@
     </div>
   </div>
 
-{% include analytics.html %}
 </body>
 <script src="http://cdn.bootcss.com/jquery/2.1.4/jquery.min.js"></script>
 <script src="site.js"></script>
